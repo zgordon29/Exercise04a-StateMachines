@@ -1,4 +1,9 @@
-# Exercise04a-StateMachines
+# Project04-Platformer
+
+# Project Name
+Context and date
+
+Description
 
 ## Implementation
 Which features you included.
@@ -12,4 +17,4 @@ https://github.com/SebLague/2DPlatformer-Tutorial
 ## Future Development
 
 ## Created by
-Nathan Mishler
+Zachary Gordon
